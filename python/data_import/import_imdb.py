@@ -8,7 +8,7 @@ import numpy as np
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Isaloffeu94",
+    password="Sua_Senha",
     database="projeto_big_data"
 )
 
